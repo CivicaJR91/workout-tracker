@@ -34,10 +34,15 @@ const workout = new Schema ({
 
     distance:{
         type: Number
+    },
+
+    day:{
+        type: Date, 
+        default: Date.now
     }
 
 });
 
-const workoutFitness = mongoose.model("workout", workout);
+const WorkoutFitness = mongoose.model("workout", workout);
 
-module.exports = workoutFitness;
+module.exports = WorkoutFitness;
