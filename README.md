@@ -11,13 +11,11 @@ To run this application you will need to install the fallowing:
 * React
 
 
-
 # Screenshot
 
 ![HomePage](./images/Home.png)
 ![Create Workout](./images/Creating_Workout.png)
 ![Charts](./images/Charts.png)
-
 
 # Heruko Link
 
