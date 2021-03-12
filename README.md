@@ -14,7 +14,7 @@ To run this application you will need to install the fallowing:
 
 # Screenshot
 
-![HomePage]("./images/Home.png")
+![HomePage](./images/Home.png)
 ![Create Workout](./images/Creating_Workout.png)
 ![Charts](./images/Charts.png)
 
